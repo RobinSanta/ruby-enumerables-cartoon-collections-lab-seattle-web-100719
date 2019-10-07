@@ -16,7 +16,9 @@ def summon_captain_planet(array)
   new_array
 end
 
-def long_planeteer_calls
+def long_planeteer_calls(array)
+  i = 0 
+  new_array = []
   
 end
 
